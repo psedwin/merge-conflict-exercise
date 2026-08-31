@@ -1,1 +1,2 @@
-# merge-conflict-exercise
+This is my change on the conflict branch.
+
